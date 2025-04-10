@@ -12,7 +12,7 @@ public abstract class Animal {
 
     protected final String name;
 
-    //TODO перевести на Date - дата рождения 123
+    //TODO перевести на Date - дата рождения 4123
     protected int age;
 
     public Animal(String name_, int age_) throws AgeException {
