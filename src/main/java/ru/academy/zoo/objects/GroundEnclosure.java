@@ -23,7 +23,6 @@ public class GroundEnclosure extends Enclosure{
             throw new AddTypeAnimalException(animal.getClass().getSimpleName());
         }
 
-
     }
 
 }
