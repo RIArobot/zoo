@@ -11,6 +11,7 @@ public class GroundEnclosure extends Enclosure{
     public GroundEnclosure(int maxCapacity_) throws MaxCapacityException {
 
         super(maxCapacity_);
+
     }
 
     @Override
